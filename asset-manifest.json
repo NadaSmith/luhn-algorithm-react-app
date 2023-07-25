@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Credit-Card-Validator/static/css/main.50cc09b8.css",
+    "main.js": "/Credit-Card-Validator/static/js/main.50b4d4ec.js",
+    "index.html": "/Credit-Card-Validator/index.html",
+    "main.50cc09b8.css.map": "/Credit-Card-Validator/static/css/main.50cc09b8.css.map",
+    "main.50b4d4ec.js.map": "/Credit-Card-Validator/static/js/main.50b4d4ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50cc09b8.css",
+    "static/js/main.50b4d4ec.js"
+  ]
+}
